@@ -1,0 +1,22 @@
+{
+    "name": "yunn-thu-thu/bezie-os",
+    "description": "An interactive web application for children to learn and explore",
+    "type": "project",
+    "require": {
+        "illuminate/database": "^11.11",
+        "illuminate/auth": "^11.11",
+        "illuminate/session": "^11.11"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "YunnThuThu\\BezieOs\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Yunn Thu Thu",
+            "email": "yunn.beebee@outlook.com"
+        }
+    ]
+}
