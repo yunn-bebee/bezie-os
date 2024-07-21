@@ -1,1 +1,7 @@
-/vendor/
+
+# Ignore environment variables file
+.env
+# Ignore node_modules
+node_modules/
+# Ignore vendor directory
+vendor/
